@@ -78,24 +78,3 @@
   justify-content: center;
   flex-direction: column;
 }
-
-.sushi__subtitle {
-  font-size: 32px;
-  font-weight: 500;
-  font-family: var(--playfair-display);
-  color: var(--black-200);
-}
-.sushi__title {
-  font-size: 58px;
-  font-weight: 500;
-  font-family: var(--playfair-display);
-  color: var(--black-200);
-}
-
-.sushi__description {
-  margin: 32px 0 0 32px;
-  font-family: var(--playfair-display);
-  color: var(--black-300);
-  font-size: 18px;
-  font-weight: 400;
-}
