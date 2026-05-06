@@ -83,5 +83,13 @@ a {
   color: var(--secondary-color);
   opacity: 0.08;
   margin: 32px 0px;
-  
+}
+
+.sushi__hide-scrollbar::-webkit-scrollbar{
+    display: none;
+}
+
+.sushi__hide-scrollbar{
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
